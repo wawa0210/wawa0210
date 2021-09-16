@@ -1,9 +1,13 @@
-### Hi there 👋
+
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=wawa0210.wawa0210)
+- 📫 How to reach me: xiaozhang0210@hotmail.com
+
 
 <!--
 **wawa0210/wawa0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
