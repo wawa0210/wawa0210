@@ -1,6 +1,6 @@
 
 
-### Hi  👋👋👋 , I'm xiaozhang  ![](https://visitor-badge.glitch.me/badge?page_id=wawa0210.wawa0210)
+### Hi  👋👋👋 , I'm xiaozhang
 ### A passionate cloud native developer from Shanghai
 - 📫 How to reach me: xiaozhang0210@hotmail.com
 
